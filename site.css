@@ -1,3 +1,9 @@
+ 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333; 
@@ -55,7 +61,7 @@
 .subnav:hover .subnav-content {
   display: block;
 }
-
+ 
 
 ul {
     list-style-type: none;
